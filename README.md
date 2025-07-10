@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **SQL,Python,Power BI**
+- 💬 Ask me about **Supply Chain Analytics, Business Intelligence, Python, Power BI**
 
 - 📫 How to reach me **mailtoarhamqasim@gmail.com**
 
